@@ -1,0 +1,33 @@
+{
+  "title": "just-api",
+  "files": [
+    "/Users/dalong/mylearning/just-api-project/specs/starwars_service.yml"
+  ],
+  "passedSuitesCount": 1,
+  "skippedSuitesCount": 0,
+  "failedSuitesCount": 0,
+  "failedTestsCount": 0,
+  "passedTestsCount": 1,
+  "skippedTestsCount": 0,
+  "duration": 1249,
+  "suites": [
+    {
+      "location": "/Users/dalong/mylearning/just-api-project/specs/starwars_service.yml",
+      "name": "Star Wars suite",
+      "status": "pass",
+      "tests": [
+        {
+          "suite": "/Users/dalong/mylearning/just-api-project/specs/starwars_service.yml",
+          "name": "get Luke Skywalker info",
+          "duration": 1207,
+          "status": "pass",
+          "error": null
+        }
+      ],
+      "passedTests": 1,
+      "skippedTests": 0,
+      "failedTests": 0,
+      "error": null
+    }
+  ]
+}
