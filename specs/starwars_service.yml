@@ -1,5 +1,5 @@
 meta:
-  name: "请求大战测试"
+  name: "星球大战测试"
 configuration:
   scheme: "https"
   host: "swapi.co"
